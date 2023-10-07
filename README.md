@@ -1,8 +1,8 @@
 # Charmed Hadron's Pie Plots
 
-## How to Run
-
 This program generates pie charts to visualize the quark composition of ground-state charm mesons and baryons, known as charm hadrons. Each pie chart represents a different charm particle, with the chart's area proportional to the particle's lifetime.
+
+## How to Run
 
 1. **Source ROOT Environment**:
 
